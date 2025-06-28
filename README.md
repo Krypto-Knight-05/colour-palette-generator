@@ -2,7 +2,7 @@
 
 A lightweight web app that generates random color palettes using JavaScript. Click on any color to copy the HEX code to your clipboard.
 
-![screenshot]("C:\Users\bansa\OneDrive\Pictures\Screenshots\Screenshot 2025-06-29 044518.png")
+![screenshot](./screenshot.png)
 
 ## ✨ Features
 
